@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbooks along with
+  the schedule of readings and cases by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Introduction and vision I
 Chapters 1, 4 and 5 in \[PV\].
 {{< tdclose >}}
 {{< tdopen >}}
-National Transport Safety Bureau. _Eastern Air Lines, Inc., L-1011, N310EA, Miami, Florida, December 29, 1972_. Report: AAR73-14, 1973. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7MB](http://libraryonline.erau.edu/online-full-text/ntsb/aircraft-accident-reports/AAR73-14.pdf))
+National Transport Safety Bureau. _Eastern Air Lines, Inc., L-1011, N310EA, Miami, Florida, December 29, 1972_. Report: AAR73-14, 1973. ([PDF - 2.7MB](http://libraryonline.erau.edu/online-full-text/ntsb/aircraft-accident-reports/AAR73-14.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Chapter 6 in \[PV\].
 Space bioastronautics
 {{< tdclose >}}
 {{< tdopen >}}
-Charles, John B., Maneesh Arya, and Craig E. Kundrot. "Use of International Space Station to Simulate Interplanetary Transit: Human Health and Performance Applicability of Current Increment Durations and Extended Durations." NASA, February 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://ston.jsc.nasa.gov/collections/trs/_techrep/TM-2011-216143.pdf))
+Charles, John B., Maneesh Arya, and Craig E. Kundrot. "Use of International Space Station to Simulate Interplanetary Transit: Human Health and Performance Applicability of Current Increment Durations and Extended Durations." NASA, February 2011. ([PDF](https://ston.jsc.nasa.gov/collections/trs/_techrep/TM-2011-216143.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -117,7 +119,7 @@ Vestibular/spatial disorientation
  
 {{< tdclose >}}
 {{< tdopen >}}
-National Transportation Safety Board. _NYC99MA178: Brief of Report_, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://libraryonline.erau.edu/online-full-text/ntsb/miscellaneous-reports/NYC99MA178a.pdf))
+National Transportation Safety Board. _NYC99MA178: Brief of Report_, 2000. ([PDF](http://libraryonline.erau.edu/online-full-text/ntsb/miscellaneous-reports/NYC99MA178a.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ Displays
 
 Chapter 8 in \[PV\].
 
-Chandra, Divya C., Michelle Yeh, Vic Riley, and Susan J. Mangold. Section 2.4 in _Human Factors Considerations in the Design and Evaluation of Electronic Flight Bags (EFBs)_. Version 2. U.S. Office of Aviation Research, September 2003. (choose 3–5 topics to read) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4MB](http://ntl.bts.gov/lib/34000/34200/34292/DOT-VNTSC-FAA-03-07.pdf))
+Chandra, Divya C., Michelle Yeh, Vic Riley, and Susan J. Mangold. Section 2.4 in _Human Factors Considerations in the Design and Evaluation of Electronic Flight Bags (EFBs)_. Version 2. U.S. Office of Aviation Research, September 2003. (choose 3–5 topics to read) ([PDF - 3.4MB](http://ntl.bts.gov/lib/34000/34200/34292/DOT-VNTSC-FAA-03-07.pdf))
 
 
 {{< tdclose >}}
@@ -243,7 +245,7 @@ Auditory
 Chapter 7 in \[PV\].
 {{< tdclose >}}
 {{< tdopen >}}
-National Transportation Safety Board. _NW Airlines, Inc., Flights 1482 and 299 Runway Incursion and Collision Detroit Metropolitan/Wayne County Airport Romulus, Michigan, December 3, 1990_. Report: AAR91-05, 1990. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.8MB](http://libraryonline.erau.edu/online-full-text/ntsb/aircraft-accident-reports/AAR91-05.pdf))
+National Transportation Safety Board. _NW Airlines, Inc., Flights 1482 and 299 Runway Incursion and Collision Detroit Metropolitan/Wayne County Airport Romulus, Michigan, December 3, 1990_. Report: AAR91-05, 1990. ([PDF - 5.8MB](http://libraryonline.erau.edu/online-full-text/ntsb/aircraft-accident-reports/AAR91-05.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +278,7 @@ Endsley, Mica R. "Situation Awareness in Aviation Systems." Chapter 11 in _Handb
 Flight deck automation working group
 {{< tdclose >}}
 {{< tdopen >}}
-_The Interfaces Between Flightcrews and Modern Flight Deck Systems_. Human Factors Team, Federal Aviation Administration, June 18, 1996. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.tc.faa.gov/its/worldpac/techrpt/hffaces.pdf))
+_The Interfaces Between Flightcrews and Modern Flight Deck Systems_. Human Factors Team, Federal Aviation Administration, June 18, 1996. ([PDF](http://www.tc.faa.gov/its/worldpac/techrpt/hffaces.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [_Korean Air Lines Flight 007_](http://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007). Wikipedia.
@@ -324,7 +326,7 @@ Fatigue/circadian rhythms
 [_The Effects of Commuting on Pilot Fatigue_](http://www.nap.edu/catalog.php?record_id=13201). Committee on the Effects of Commuting on Pilot Fatigue, National Research Council, 2011.
 {{< tdclose >}}
 {{< tdopen >}}
-National Transporation Safety Board. _Controlled Flight into Terrain, Korean Air Flight 801_. Report: AAR00-01, 1997. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 3.6MB](http://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0001.pdf))
+National Transporation Safety Board. _Controlled Flight into Terrain, Korean Air Flight 801_. Report: AAR00-01, 1997. ([PDF - 3.6MB](http://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0001.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
