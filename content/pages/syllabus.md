@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, learning objectives, required course texts, grading, and the academic honesty
+  policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
