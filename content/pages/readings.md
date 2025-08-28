@@ -11,7 +11,7 @@ uid: 2fa6acab-77fd-5508-2201-d4f807695021
 ---
 \[PV\] = Proctor, Robert W., and Trisha Van Zandt. *Human Factors in Simple and Complex Systems*. 2nd ed. CRC Press, 2008. ISBN: 9780805841190. \[Preview with [Google Books](http://books.google.com/books?id=LfqDZ1VEmyoC&pg=PAfrontcover)\]
 
-\[DBL\] = Dismukes, R. Key, Benjamin A. Berman, and Loukia D. Loukopoulos. *The Limits of Expertise: Rethinking Pilot Error and the Causes of Airline Accidents*. Ashgate Publishing, 2007. ISBN: 9780754649656. \[Preview with \[Google Books\]([http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover](http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover)  
+\[DBL\] = Dismukes, R. Key, Benjamin A. Berman, and Loukia D. Loukopoulos. *The Limits of Expertise: Rethinking Pilot Error and the Causes of Airline Accidents*. Ashgate Publishing, 2007. ISBN: 9780754649656. \[Preview with \[Google Books\]([http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover](http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover)   
 )\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
@@ -144,7 +144,7 @@ National Transportation Safety Board. *NW Airlines, Inc., Flights 1482 and 299 R
 Automaton, situation, awareness
 {{< tdclose >}}{{< tdopen >}}
 
-Billings, Charles E. "[Issues Concerning Human-Centered Intelligent Systems: What's "Human-Centered" and What's the Problem?](http://www.ifp.illinois.edu/nsfhcs/talks/billings.html)" Talk by Charles Billings, 1997.
+Billings, Charles E. "[Issues Concerning Human-Centered Intelligent Systems: What's "Human-Centered" and What's the Problem?](https://web.archive.org/web/20151019020955/http://www.ifp.illinois.edu/nsfhcs/talks/billings.html)" Talk by Charles Billings, 1997.
 
 Endsley, Mica R. "Situation Awareness in Aviation Systems." Chapter 11 in *Handbook of Aviation Human Factors*. Edited by John A. Wise, V. David Hopkin, and Daniel J. Garland. Lawrence Erlbaum Associates, 1999. ISBN: 9780805816808.
 
